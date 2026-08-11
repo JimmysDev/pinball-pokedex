@@ -8,6 +8,9 @@ settings:
   base:
     MARKETING_VERSION: "1.0"
     CURRENT_PROJECT_VERSION: "1"
+    # Universal so released builds run on Intel Macs as well as Apple Silicon.
+    ARCHS: "x86_64 arm64"
+    ONLY_ACTIVE_ARCH: "NO"
     SWIFT_VERSION: "5.0"
     CODE_SIGN_STYLE: Manual
     CODE_SIGN_IDENTITY: "-"

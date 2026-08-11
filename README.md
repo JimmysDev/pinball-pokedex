@@ -40,20 +40,36 @@ There's also a **Force Special Mon** switch that guarantees the next Catch 'Em M
 spawn (Latios on Ruby / Latias on Sapphire while uncaught) — it drives `forceSpecialMons`, a flag
 the ROM reads but never writes.
 
-## Requirements
+## Download
 
-- macOS 13 or later
-- [mGBA](https://mgba.io) with scripting support
-- [xcodegen](https://github.com/yonaskolb/XcodeGen) (`brew install xcodegen`) to build
+**[Download the latest release](https://github.com/JimmysDev/pinball-pokedex/releases/latest)** —
+a universal build (Apple Silicon + Intel), macOS 13 or later. No build tools needed.
 
-## Build & run
+Unzip it, drag `PinballPokedex.app` to /Applications, then run this once:
+
+```bash
+xattr -dr com.apple.quarantine /Applications/PinballPokedex.app
+```
+
+That step is needed because the app is **ad-hoc signed rather than notarized** — notarizing
+requires a paid Apple Developer account. macOS quarantines anything unnotarized you download and
+will refuse to open it with a "cannot be verified" or "damaged" error until the flag is cleared.
+It's not a comment on the app; every line of it is in this repo, and you can always build it
+yourself instead.
+
+Point the app at your `.sav` with **Open…** if it doesn't find it (it usually sits next to the
+ROM, or in `~/Documents/Game Boy Advance/`).
+
+## Build it yourself
+
+Requires [xcodegen](https://github.com/yonaskolb/XcodeGen) (`brew install xcodegen`):
 
 ```bash
 ./build.sh && open PinballPokedex.app
 ```
 
-Point the app at your `.sav` with **Open…** if it doesn't find it (it usually sits next to the
-ROM, or in `~/Documents/Game Boy Advance/`).
+`./scripts/release.sh v1.2.3` builds a universal app, verifies it really is universal, and
+publishes it as a GitHub release.
 
 ## Connecting the live bridge
 
