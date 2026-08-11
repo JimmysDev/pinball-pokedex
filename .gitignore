@@ -1,0 +1,16 @@
+# Build output (xcodegen regenerates the project; build.sh rebuilds the app)
+build/
+PinballPokedex.app/
+PinballPokedex.xcodeproj/
+
+# Save data — never commit these
+save-backups/
+*.sav
+
+# Source scans the e-Reader card thumbnails were cropped from (~55 MB, kept local)
+e-reader cards - source images/
+
+# Backups written by the data tooling
+Resources/pokedex.json.bak-*
+
+.DS_Store

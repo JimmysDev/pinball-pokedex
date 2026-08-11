@@ -1,0 +1,2719 @@
+[
+ {
+  "num": 1,
+  "name": "Treecko",
+  "natdex": 252,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Forest",
+    "field": "Ruby",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Forest (Ruby, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 2,
+  "name": "Grovyle",
+  "natdex": 253,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Treecko",
+  "method": "Evolve Treecko",
+  "rarity": 4
+ },
+ {
+  "num": 3,
+  "name": "Sceptile",
+  "natdex": 254,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Grovyle",
+  "method": "Evolve Grovyle",
+  "rarity": 5
+ },
+ {
+  "num": 4,
+  "name": "Torchic",
+  "natdex": 255,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Volcano",
+    "field": "Ruby",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Volcano (Ruby, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 5,
+  "name": "Combusken",
+  "natdex": 256,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Torchic",
+  "method": "Evolve Torchic",
+  "rarity": 4
+ },
+ {
+  "num": 6,
+  "name": "Blaziken",
+  "natdex": 257,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Combusken",
+  "method": "Evolve Combusken",
+  "rarity": 5
+ },
+ {
+  "num": 7,
+  "name": "Mudkip",
+  "natdex": 258,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Lake",
+    "field": "Sapphire",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Lake (Sapphire, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 8,
+  "name": "Marshtomp",
+  "natdex": 259,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Mudkip",
+  "method": "Evolve Mudkip",
+  "rarity": 4
+ },
+ {
+  "num": 9,
+  "name": "Swampert",
+  "natdex": 260,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Marshtomp",
+  "method": "Evolve Marshtomp",
+  "rarity": 5
+ },
+ {
+  "num": 10,
+  "name": "Poochyena",
+  "natdex": 261,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Plains",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Plains (Both, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 11,
+  "name": "Mightyena",
+  "natdex": 262,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Poochyena",
+  "method": "Evolve Poochyena",
+  "rarity": 2
+ },
+ {
+  "num": 12,
+  "name": "Zigzagoon",
+  "natdex": 263,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Forest",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Forest (Ruby, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 13,
+  "name": "Linoone",
+  "natdex": 264,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Zigzagoon",
+  "method": "Evolve Zigzagoon",
+  "rarity": 2
+ },
+ {
+  "num": 14,
+  "name": "Wurmple",
+  "natdex": 265,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 15,
+  "name": "Silcoon",
+  "natdex": 266,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Forest",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": "Wurmple",
+  "method": "Catch in Forest (Both, 2 & 3 lights) · Evolve Wurmple",
+  "rarity": 2
+ },
+ {
+  "num": 16,
+  "name": "Beautifly",
+  "natdex": 267,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Silcoon",
+  "method": "Evolve Silcoon",
+  "rarity": 4
+ },
+ {
+  "num": 17,
+  "name": "Cascoon",
+  "natdex": 268,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Forest",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": "Wurmple",
+  "method": "Catch in Forest (Both, 2 & 3 lights) · Evolve Wurmple",
+  "rarity": 2
+ },
+ {
+  "num": 18,
+  "name": "Dustox",
+  "natdex": 269,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Cascoon",
+  "method": "Evolve Cascoon",
+  "rarity": 4
+ },
+ {
+  "num": 19,
+  "name": "Lotad",
+  "natdex": 270,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": "Sapphire",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Sapphire)",
+  "rarity": 2
+ },
+ {
+  "num": 20,
+  "name": "Lombre",
+  "natdex": 271,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Lake",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": "Lotad",
+  "method": "Catch in Lake (Sapphire, 2 & 3 lights) · Evolve Lotad",
+  "rarity": 2
+ },
+ {
+  "num": 21,
+  "name": "Ludicolo",
+  "natdex": 272,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Lombre",
+  "method": "Evolve Lombre",
+  "rarity": 4
+ },
+ {
+  "num": 22,
+  "name": "Seedot",
+  "natdex": 273,
+  "field": "Ruby",
+  "catch": [],
+  "egg": "Ruby",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Ruby)",
+  "rarity": 2
+ },
+ {
+  "num": 23,
+  "name": "Nuzleaf",
+  "natdex": 274,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Forest",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": "Seedot",
+  "method": "Catch in Forest (Ruby, 2 & 3 lights) · Evolve Seedot",
+  "rarity": 1
+ },
+ {
+  "num": 24,
+  "name": "Shiftry",
+  "natdex": 275,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Nuzleaf",
+  "method": "Evolve Nuzleaf",
+  "rarity": 4
+ },
+ {
+  "num": 25,
+  "name": "Taillow",
+  "natdex": 276,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Plains",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Plains (Both, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 26,
+  "name": "Swellow",
+  "natdex": 277,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Taillow",
+  "method": "Evolve Taillow",
+  "rarity": 4
+ },
+ {
+  "num": 27,
+  "name": "Wingull",
+  "natdex": 278,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Ocean",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ocean (Both, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 28,
+  "name": "Pelipper",
+  "natdex": 279,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Wingull",
+  "method": "Evolve Wingull",
+  "rarity": 2
+ },
+ {
+  "num": 29,
+  "name": "Ralts",
+  "natdex": 280,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 30,
+  "name": "Kirlia",
+  "natdex": 281,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Ralts",
+  "method": "Evolve Ralts",
+  "rarity": 3
+ },
+ {
+  "num": 31,
+  "name": "Gardevoir",
+  "natdex": 282,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Kirlia",
+  "method": "Evolve Kirlia",
+  "rarity": 4
+ },
+ {
+  "num": 32,
+  "name": "Surskit",
+  "natdex": 283,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": "Sapphire",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Sapphire)",
+  "rarity": 2
+ },
+ {
+  "num": 33,
+  "name": "Masquerain",
+  "natdex": 284,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Surskit",
+  "method": "Evolve Surskit",
+  "rarity": 3
+ },
+ {
+  "num": 34,
+  "name": "Shroomish",
+  "natdex": 285,
+  "field": "Ruby",
+  "catch": [],
+  "egg": "Ruby",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Ruby)",
+  "rarity": 2
+ },
+ {
+  "num": 35,
+  "name": "Breloom",
+  "natdex": 286,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Shroomish",
+  "method": "Evolve Shroomish",
+  "rarity": 3
+ },
+ {
+  "num": 36,
+  "name": "Slakoth",
+  "natdex": 287,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Forest",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Forest (Sapphire, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 37,
+  "name": "Vigoroth",
+  "natdex": 288,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Slakoth",
+  "method": "Evolve Slakoth",
+  "rarity": 2
+ },
+ {
+  "num": 38,
+  "name": "Slaking",
+  "natdex": 289,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Vigoroth",
+  "method": "Evolve Vigoroth",
+  "rarity": 3
+ },
+ {
+  "num": 39,
+  "name": "Abra",
+  "natdex": 63,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Cave",
+    "field": "Both",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Cave (Both, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 40,
+  "name": "Kadabra",
+  "natdex": 64,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Abra",
+  "method": "Evolve Abra",
+  "rarity": 4
+ },
+ {
+  "num": 41,
+  "name": "Alakazam",
+  "natdex": 65,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Kadabra",
+  "method": "Evolve Kadabra",
+  "rarity": 5
+ },
+ {
+  "num": 42,
+  "name": "Nincada",
+  "natdex": 290,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Forest",
+    "field": "Both",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Forest (Both, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 43,
+  "name": "Ninjask",
+  "natdex": 291,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Nincada",
+  "method": "Evolve Nincada",
+  "rarity": 4
+ },
+ {
+  "num": 44,
+  "name": "Shedinja",
+  "natdex": 292,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Nincada",
+  "method": "Evolve Nincada",
+  "rarity": 4
+ },
+ {
+  "num": 45,
+  "name": "Whismur",
+  "natdex": 293,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 46,
+  "name": "Loudred",
+  "natdex": 294,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Cave",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": "Whismur",
+  "method": "Catch in Cave (Both, 2 & 3 lights) · Evolve Whismur",
+  "rarity": 3
+ },
+ {
+  "num": 47,
+  "name": "Exploud",
+  "natdex": 295,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Loudred",
+  "method": "Evolve Loudred",
+  "rarity": 4
+ },
+ {
+  "num": 48,
+  "name": "Makuhita",
+  "natdex": 296,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Cave",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Cave (Sapphire, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 49,
+  "name": "Hariyama",
+  "natdex": 297,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Makuhita",
+  "method": "Evolve Makuhita",
+  "rarity": 2
+ },
+ {
+  "num": 50,
+  "name": "Goldeen",
+  "natdex": 118,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Lake",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Lake (Sapphire, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 51,
+  "name": "Seaking",
+  "natdex": 119,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Goldeen",
+  "method": "Evolve Goldeen",
+  "rarity": 2
+ },
+ {
+  "num": 52,
+  "name": "Magikarp",
+  "natdex": 129,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Ocean",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ocean (Sapphire, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 53,
+  "name": "Gyarados",
+  "natdex": 130,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Magikarp",
+  "method": "Evolve Magikarp",
+  "rarity": 2
+ },
+ {
+  "num": 54,
+  "name": "Azurill",
+  "natdex": 298,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": "Sapphire",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Sapphire)",
+  "rarity": 2
+ },
+ {
+  "num": 55,
+  "name": "Marill",
+  "natdex": 183,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Lake",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": "Azurill",
+  "method": "Catch in Lake (Sapphire, 2 & 3 lights) · Evolve Azurill",
+  "rarity": 1
+ },
+ {
+  "num": 56,
+  "name": "Azumarill",
+  "natdex": 184,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Marill",
+  "method": "Evolve Marill",
+  "rarity": 4
+ },
+ {
+  "num": 57,
+  "name": "Geodude",
+  "natdex": 74,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Wilderness",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Wilderness (Sapphire, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 58,
+  "name": "Graveler",
+  "natdex": 75,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Geodude",
+  "method": "Evolve Geodude",
+  "rarity": 4
+ },
+ {
+  "num": 59,
+  "name": "Golem",
+  "natdex": 76,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Graveler",
+  "method": "Evolve Graveler",
+  "rarity": 5
+ },
+ {
+  "num": 60,
+  "name": "Nosepass",
+  "natdex": 299,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Cave",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Cave (Both, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 61,
+  "name": "Skitty",
+  "natdex": 300,
+  "field": "Ruby",
+  "catch": [],
+  "egg": "Ruby",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Ruby)",
+  "rarity": 2
+ },
+ {
+  "num": 62,
+  "name": "Delcatty",
+  "natdex": 301,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Skitty",
+  "method": "Evolve Skitty",
+  "rarity": 3
+ },
+ {
+  "num": 63,
+  "name": "Zubat",
+  "natdex": 41,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 64,
+  "name": "Golbat",
+  "natdex": 42,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Zubat",
+  "method": "Evolve Zubat",
+  "rarity": 3
+ },
+ {
+  "num": 65,
+  "name": "Crobat",
+  "natdex": 169,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Golbat",
+  "method": "Evolve Golbat",
+  "rarity": 4
+ },
+ {
+  "num": 66,
+  "name": "Tentacool",
+  "natdex": 72,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Ocean",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ocean (Both, 2 & 3 lights)",
+  "rarity": 2
+ },
+ {
+  "num": 67,
+  "name": "Tentacruel",
+  "natdex": 73,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Tentacool",
+  "method": "Evolve Tentacool",
+  "rarity": 3
+ },
+ {
+  "num": 68,
+  "name": "Sableye",
+  "natdex": 302,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Cave",
+    "field": "Sapphire",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Cave (Sapphire, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 69,
+  "name": "Mawile",
+  "natdex": 303,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Cave",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Cave (Ruby, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 70,
+  "name": "Aron",
+  "natdex": 304,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 71,
+  "name": "Lairon",
+  "natdex": 305,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Aron",
+  "method": "Evolve Aron",
+  "rarity": 3
+ },
+ {
+  "num": 72,
+  "name": "Aggron",
+  "natdex": 306,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Lairon",
+  "method": "Evolve Lairon",
+  "rarity": 4
+ },
+ {
+  "num": 73,
+  "name": "Machop",
+  "natdex": 66,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Cave",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Cave (Ruby, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 74,
+  "name": "Machoke",
+  "natdex": 67,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Machop",
+  "method": "Evolve Machop",
+  "rarity": 2
+ },
+ {
+  "num": 75,
+  "name": "Machamp",
+  "natdex": 68,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Machoke",
+  "method": "Evolve Machoke",
+  "rarity": 3
+ },
+ {
+  "num": 76,
+  "name": "Meditite",
+  "natdex": 307,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Wilderness",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Wilderness (Sapphire, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 77,
+  "name": "Medicham",
+  "natdex": 308,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Meditite",
+  "method": "Evolve Meditite",
+  "rarity": 2
+ },
+ {
+  "num": 78,
+  "name": "Electrike",
+  "natdex": 309,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Plains",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Plains (Both, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 79,
+  "name": "Manectric",
+  "natdex": 310,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Electrike",
+  "method": "Evolve Electrike",
+  "rarity": 2
+ },
+ {
+  "num": 80,
+  "name": "Plusle",
+  "natdex": 311,
+  "field": "Ruby",
+  "catch": [],
+  "egg": "Ruby",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Ruby)",
+  "rarity": 2
+ },
+ {
+  "num": 81,
+  "name": "Minun",
+  "natdex": 312,
+  "field": "Ruby",
+  "catch": [],
+  "egg": "Ruby",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Ruby)",
+  "rarity": 2
+ },
+ {
+  "num": 82,
+  "name": "Magnemite",
+  "natdex": 81,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Plains",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Plains (Both, 2 & 3 lights)",
+  "rarity": 2
+ },
+ {
+  "num": 83,
+  "name": "Magneton",
+  "natdex": 82,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Magnemite",
+  "method": "Evolve Magnemite",
+  "rarity": 3
+ },
+ {
+  "num": 84,
+  "name": "Voltorb",
+  "natdex": 100,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Plains",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Plains (Both, 2 & 3 lights)",
+  "rarity": 2
+ },
+ {
+  "num": 85,
+  "name": "Electrode",
+  "natdex": 101,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Voltorb",
+  "method": "Evolve Voltorb",
+  "rarity": 3
+ },
+ {
+  "num": 86,
+  "name": "Volbeat",
+  "natdex": 313,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Plains",
+    "field": "Sapphire",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Plains (Sapphire, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 87,
+  "name": "Illumise",
+  "natdex": 314,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Plains",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Plains (Ruby, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 88,
+  "name": "Oddish",
+  "natdex": 43,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 89,
+  "name": "Gloom",
+  "natdex": 44,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Oddish",
+  "method": "Evolve Oddish",
+  "rarity": 3
+ },
+ {
+  "num": 90,
+  "name": "Vileplume",
+  "natdex": 45,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Gloom",
+  "method": "Evolve Gloom",
+  "rarity": 4
+ },
+ {
+  "num": 91,
+  "name": "Bellossom",
+  "natdex": 182,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Gloom",
+  "method": "Evolve Gloom",
+  "rarity": 4
+ },
+ {
+  "num": 92,
+  "name": "Doduo",
+  "natdex": 84,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Safari",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Safari (Ruby, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 93,
+  "name": "Dodrio",
+  "natdex": 85,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Doduo",
+  "method": "Evolve Doduo",
+  "rarity": 4
+ },
+ {
+  "num": 94,
+  "name": "Roselia",
+  "natdex": 315,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Forest",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Forest (Sapphire, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 95,
+  "name": "Gulpin",
+  "natdex": 316,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": "Sapphire",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Sapphire)",
+  "rarity": 2
+ },
+ {
+  "num": 96,
+  "name": "Swalot",
+  "natdex": 317,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Gulpin",
+  "method": "Evolve Gulpin",
+  "rarity": 3
+ },
+ {
+  "num": 97,
+  "name": "Carvanha",
+  "natdex": 318,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Ocean",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ocean (Both, 2 & 3 lights)",
+  "rarity": 2
+ },
+ {
+  "num": 98,
+  "name": "Sharpedo",
+  "natdex": 319,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Carvanha",
+  "method": "Evolve Carvanha",
+  "rarity": 3
+ },
+ {
+  "num": 99,
+  "name": "Wailmer",
+  "natdex": 320,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Ocean",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ocean (Ruby, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 100,
+  "name": "Wailord",
+  "natdex": 321,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Wailmer",
+  "method": "Evolve Wailmer",
+  "rarity": 2
+ },
+ {
+  "num": 101,
+  "name": "Numel",
+  "natdex": 322,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Volcano",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Volcano (Ruby, 2 & 3 lights)",
+  "rarity": 2
+ },
+ {
+  "num": 102,
+  "name": "Camerupt",
+  "natdex": 323,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Numel",
+  "method": "Evolve Numel",
+  "rarity": 3
+ },
+ {
+  "num": 103,
+  "name": "Slugma",
+  "natdex": 218,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Volcano",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Volcano (Ruby, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 104,
+  "name": "Magcargo",
+  "natdex": 219,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Slugma",
+  "method": "Evolve Slugma",
+  "rarity": 2
+ },
+ {
+  "num": 105,
+  "name": "Torkoal",
+  "natdex": 324,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Volcano",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Volcano (Ruby, 2 & 3 lights)",
+  "rarity": 2
+ },
+ {
+  "num": 106,
+  "name": "Grimer",
+  "natdex": 88,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Cave",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Cave (Both, 2 & 3 lights)",
+  "rarity": 2
+ },
+ {
+  "num": 107,
+  "name": "Muk",
+  "natdex": 89,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Grimer",
+  "method": "Evolve Grimer",
+  "rarity": 3
+ },
+ {
+  "num": 108,
+  "name": "Koffing",
+  "natdex": 109,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Volcano",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Volcano (Ruby, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 109,
+  "name": "Weezing",
+  "natdex": 110,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Koffing",
+  "method": "Evolve Koffing",
+  "rarity": 4
+ },
+ {
+  "num": 110,
+  "name": "Spoink",
+  "natdex": 325,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 111,
+  "name": "Grumpig",
+  "natdex": 326,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Spoink",
+  "method": "Evolve Spoink",
+  "rarity": 3
+ },
+ {
+  "num": 112,
+  "name": "Sandshrew",
+  "natdex": 27,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 113,
+  "name": "Sandslash",
+  "natdex": 28,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Sandshrew",
+  "method": "Evolve Sandshrew",
+  "rarity": 3
+ },
+ {
+  "num": 114,
+  "name": "Spinda",
+  "natdex": 327,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 115,
+  "name": "Skarmory",
+  "natdex": 227,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Volcano",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Volcano (Ruby, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 116,
+  "name": "Trapinch",
+  "natdex": 328,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 117,
+  "name": "Vibrava",
+  "natdex": 329,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Wilderness",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": "Trapinch",
+  "method": "Catch in Wilderness (Sapphire, 2 & 3 lights) · Evolve Trapinch",
+  "rarity": 2
+ },
+ {
+  "num": 118,
+  "name": "Flygon",
+  "natdex": 330,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Vibrava",
+  "method": "Evolve Vibrava",
+  "rarity": 4
+ },
+ {
+  "num": 119,
+  "name": "Cacnea",
+  "natdex": 331,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Wilderness",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Wilderness (Sapphire, 2 & 3 lights)",
+  "rarity": 2
+ },
+ {
+  "num": 120,
+  "name": "Cacturne",
+  "natdex": 332,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Cacnea",
+  "method": "Evolve Cacnea",
+  "rarity": 3
+ },
+ {
+  "num": 121,
+  "name": "Swablu",
+  "natdex": 333,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Wilderness",
+    "field": "Sapphire",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Wilderness (Sapphire, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 122,
+  "name": "Altaria",
+  "natdex": 334,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Swablu",
+  "method": "Evolve Swablu",
+  "rarity": 4
+ },
+ {
+  "num": 123,
+  "name": "Zangoose",
+  "natdex": 335,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Plains",
+    "field": "Ruby",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Plains (Ruby, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 124,
+  "name": "Seviper",
+  "natdex": 336,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Plains",
+    "field": "Sapphire",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Plains (Sapphire, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 125,
+  "name": "Lunatone",
+  "natdex": 337,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Cave",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Cave (Sapphire, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 126,
+  "name": "Solrock",
+  "natdex": 338,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Cave",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Cave (Ruby, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 127,
+  "name": "Barboach",
+  "natdex": 339,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Lake",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Lake (Sapphire, 2 & 3 lights)",
+  "rarity": 2
+ },
+ {
+  "num": 128,
+  "name": "Whiscash",
+  "natdex": 340,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Barboach",
+  "method": "Evolve Barboach",
+  "rarity": 3
+ },
+ {
+  "num": 129,
+  "name": "Corphish",
+  "natdex": 341,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Lake",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Lake (Sapphire, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 130,
+  "name": "Crawdaunt",
+  "natdex": 342,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Corphish",
+  "method": "Evolve Corphish",
+  "rarity": 4
+ },
+ {
+  "num": 131,
+  "name": "Baltoy",
+  "natdex": 343,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Wilderness",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Wilderness (Sapphire, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 132,
+  "name": "Claydol",
+  "natdex": 344,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Baltoy",
+  "method": "Evolve Baltoy",
+  "rarity": 2
+ },
+ {
+  "num": 133,
+  "name": "Lileep",
+  "natdex": 345,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Ocean",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ocean (Ruby, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 134,
+  "name": "Cradily",
+  "natdex": 346,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Lileep",
+  "method": "Evolve Lileep",
+  "rarity": 4
+ },
+ {
+  "num": 135,
+  "name": "Anorith",
+  "natdex": 347,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Ocean",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ocean (Sapphire, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 136,
+  "name": "Armaldo",
+  "natdex": 348,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Anorith",
+  "method": "Evolve Anorith",
+  "rarity": 4
+ },
+ {
+  "num": 137,
+  "name": "Igglybuff",
+  "natdex": 174,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": "Sapphire",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Sapphire)",
+  "rarity": 2
+ },
+ {
+  "num": 138,
+  "name": "Jigglypuff",
+  "natdex": 39,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Plains",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": "Igglybuff",
+  "method": "Catch in Plains (Sapphire, 2 & 3 lights) · Evolve Igglybuff",
+  "rarity": 1
+ },
+ {
+  "num": 139,
+  "name": "Wigglytuff",
+  "natdex": 40,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Jigglypuff",
+  "method": "Evolve Jigglypuff",
+  "rarity": 4
+ },
+ {
+  "num": 140,
+  "name": "Feebas",
+  "natdex": 349,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Lake",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Lake (Sapphire, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 141,
+  "name": "Milotic",
+  "natdex": 350,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Feebas",
+  "method": "Evolve Feebas",
+  "rarity": 4
+ },
+ {
+  "num": 142,
+  "name": "Castform",
+  "natdex": 351,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Plains",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Plains (Both, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 143,
+  "name": "Staryu",
+  "natdex": 120,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Ocean",
+    "field": "Ruby",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ocean (Ruby, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 144,
+  "name": "Starmie",
+  "natdex": 121,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Staryu",
+  "method": "Evolve Staryu",
+  "rarity": 4
+ },
+ {
+  "num": 145,
+  "name": "Kecleon",
+  "natdex": 352,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Forest",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Forest (Both, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 146,
+  "name": "Shuppet",
+  "natdex": 353,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 147,
+  "name": "Banette",
+  "natdex": 354,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Shuppet",
+  "method": "Evolve Shuppet",
+  "rarity": 3
+ },
+ {
+  "num": 148,
+  "name": "Duskull",
+  "natdex": 355,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Forest",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Forest (Both, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 149,
+  "name": "Dusclops",
+  "natdex": 356,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Duskull",
+  "method": "Evolve Duskull",
+  "rarity": 4
+ },
+ {
+  "num": 150,
+  "name": "Tropius",
+  "natdex": 357,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Forest",
+    "field": "Sapphire",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Forest (Sapphire, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 151,
+  "name": "Chimecho",
+  "natdex": 358,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 152,
+  "name": "Absol",
+  "natdex": 359,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Wilderness",
+    "field": "Sapphire",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Wilderness (Sapphire, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 153,
+  "name": "Vulpix",
+  "natdex": 37,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Volcano",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Volcano (Ruby, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 154,
+  "name": "Ninetales",
+  "natdex": 38,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Vulpix",
+  "method": "Evolve Vulpix",
+  "rarity": 2
+ },
+ {
+  "num": 155,
+  "name": "Pichu",
+  "natdex": 172,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 156,
+  "name": "Pikachu",
+  "natdex": 25,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Safari",
+    "field": "Ruby",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": "Pichu",
+  "method": "Catch in Safari (Ruby, 3 lights) · Evolve Pichu",
+  "rarity": 3
+ },
+ {
+  "num": 157,
+  "name": "Raichu",
+  "natdex": 26,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Pikachu",
+  "method": "Evolve Pikachu",
+  "rarity": 4
+ },
+ {
+  "num": 158,
+  "name": "Psyduck",
+  "natdex": 54,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Safari",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Safari (Ruby, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 159,
+  "name": "Golduck",
+  "natdex": 55,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Psyduck",
+  "method": "Evolve Psyduck",
+  "rarity": 2
+ },
+ {
+  "num": 160,
+  "name": "Wynaut",
+  "natdex": 360,
+  "field": "Ruby",
+  "catch": [],
+  "egg": "Ruby",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Ruby)",
+  "rarity": 2
+ },
+ {
+  "num": 161,
+  "name": "Wobbuffet",
+  "natdex": 202,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Safari",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": "Wynaut",
+  "method": "Catch in Safari (Ruby, 2 & 3 lights) · Evolve Wynaut",
+  "rarity": 3
+ },
+ {
+  "num": 162,
+  "name": "Natu",
+  "natdex": 177,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 163,
+  "name": "Xatu",
+  "natdex": 178,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Natu",
+  "method": "Evolve Natu",
+  "rarity": 3
+ },
+ {
+  "num": 164,
+  "name": "Girafarig",
+  "natdex": 203,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Safari",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Safari (Ruby, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 165,
+  "name": "Phanpy",
+  "natdex": 231,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 166,
+  "name": "Donphan",
+  "natdex": 232,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Phanpy",
+  "method": "Evolve Phanpy",
+  "rarity": 3
+ },
+ {
+  "num": 167,
+  "name": "Pinsir",
+  "natdex": 127,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Safari",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Safari (Ruby, 2 & 3 lights)",
+  "rarity": 2
+ },
+ {
+  "num": 168,
+  "name": "Heracross",
+  "natdex": 214,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Safari",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Safari (Ruby, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 169,
+  "name": "Rhyhorn",
+  "natdex": 111,
+  "field": "Ruby",
+  "catch": [
+   {
+    "biome": "Safari",
+    "field": "Ruby",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Safari (Ruby, 2 & 3 lights)",
+  "rarity": 2
+ },
+ {
+  "num": 170,
+  "name": "Rhydon",
+  "natdex": 112,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Rhyhorn",
+  "method": "Evolve Rhyhorn",
+  "rarity": 3
+ },
+ {
+  "num": 171,
+  "name": "Snorunt",
+  "natdex": 361,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 172,
+  "name": "Glalie",
+  "natdex": 362,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Snorunt",
+  "method": "Evolve Snorunt",
+  "rarity": 3
+ },
+ {
+  "num": 173,
+  "name": "Spheal",
+  "natdex": 363,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 174,
+  "name": "Sealeo",
+  "natdex": 364,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Spheal",
+  "method": "Evolve Spheal",
+  "rarity": 3
+ },
+ {
+  "num": 175,
+  "name": "Walrein",
+  "natdex": 365,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Sealeo",
+  "method": "Evolve Sealeo",
+  "rarity": 4
+ },
+ {
+  "num": 176,
+  "name": "Clamperl",
+  "natdex": 366,
+  "field": "Sapphire",
+  "catch": [
+   {
+    "biome": "Ocean",
+    "field": "Sapphire",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ocean (Sapphire, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 177,
+  "name": "Huntail",
+  "natdex": 367,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Clamperl",
+  "method": "Evolve Clamperl",
+  "rarity": 4
+ },
+ {
+  "num": 178,
+  "name": "Gorebyss",
+  "natdex": 368,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Clamperl",
+  "method": "Evolve Clamperl",
+  "rarity": 4
+ },
+ {
+  "num": 179,
+  "name": "Relicanth",
+  "natdex": 369,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Ocean",
+    "field": "Both",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ocean (Both, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 180,
+  "name": "Corsola",
+  "natdex": 222,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 181,
+  "name": "Chinchou",
+  "natdex": 170,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": "Sapphire",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Sapphire)",
+  "rarity": 2
+ },
+ {
+  "num": 182,
+  "name": "Lanturn",
+  "natdex": 171,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Chinchou",
+  "method": "Evolve Chinchou",
+  "rarity": 3
+ },
+ {
+  "num": 183,
+  "name": "Luvdisc",
+  "natdex": 370,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Ocean",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ocean (Both, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 184,
+  "name": "Horsea",
+  "natdex": 116,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 185,
+  "name": "Seadra",
+  "natdex": 117,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Horsea",
+  "method": "Evolve Horsea",
+  "rarity": 3
+ },
+ {
+  "num": 186,
+  "name": "Kingdra",
+  "natdex": 230,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Seadra",
+  "method": "Evolve Seadra",
+  "rarity": 4
+ },
+ {
+  "num": 187,
+  "name": "Bagon",
+  "natdex": 371,
+  "field": "Both",
+  "catch": [],
+  "egg": "Both",
+  "evolvesFrom": null,
+  "method": "Hatch from eggs (Both)",
+  "rarity": 2
+ },
+ {
+  "num": 188,
+  "name": "Shelgon",
+  "natdex": 372,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Cave",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": "Bagon",
+  "method": "Catch in Cave (Both, 2 & 3 lights) · Evolve Bagon",
+  "rarity": 2
+ },
+ {
+  "num": 189,
+  "name": "Salamence",
+  "natdex": 373,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Shelgon",
+  "method": "Evolve Shelgon",
+  "rarity": 4
+ },
+ {
+  "num": 190,
+  "name": "Beldum",
+  "natdex": 374,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Ruins",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ruins (Both, 2 & 3 lights)",
+  "rarity": 1
+ },
+ {
+  "num": 191,
+  "name": "Metang",
+  "natdex": 375,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Beldum",
+  "method": "Evolve Beldum",
+  "rarity": 2
+ },
+ {
+  "num": 192,
+  "name": "Metagross",
+  "natdex": 376,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": "Metang",
+  "method": "Evolve Metang",
+  "rarity": 3
+ },
+ {
+  "num": 193,
+  "name": "Regirock",
+  "natdex": 377,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Ruins",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ruins (Both, 2 & 3 lights)",
+  "rarity": 2
+ },
+ {
+  "num": 194,
+  "name": "Regice",
+  "natdex": 378,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Ruins",
+    "field": "Both",
+    "lights": "2 & 3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ruins (Both, 2 & 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 195,
+  "name": "Registeel",
+  "natdex": 379,
+  "field": "Both",
+  "catch": [
+   {
+    "biome": "Ruins",
+    "field": "Both",
+    "lights": "3"
+   }
+  ],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Catch in Ruins (Both, 3 lights)",
+  "rarity": 3
+ },
+ {
+  "num": 196,
+  "name": "Latias",
+  "natdex": 380,
+  "field": "Sapphire",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Any area, any Catch 'Em Mode start — area and lights make no difference. Needs 100 caught in the dex and 5 caught this game, then a 1-in-100 roll (1-in-50 with the Encounter Rate Up card). Sapphire table only; picked ahead of the guests while uncaught.",
+  "rarity": 5
+ },
+ {
+  "num": 197,
+  "name": "Latios",
+  "natdex": 381,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Any area, any Catch 'Em Mode start — area and lights make no difference. Needs 100 caught in the dex and 5 caught this game, then a 1-in-100 roll (1-in-50 with the Encounter Rate Up card). Ruby table only; picked ahead of the guests while uncaught.",
+  "rarity": 5
+ },
+ {
+  "num": 198,
+  "name": "Kyogre",
+  "natdex": 382,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Beat the Kyogre bonus stage twice (15 hits the first time, 18 the second)",
+  "rarity": 5
+ },
+ {
+  "num": 199,
+  "name": "Groudon",
+  "natdex": 383,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Beat the Kyogre bonus stage twice (15 hits the first time, 18 the second)",
+  "rarity": 5
+ },
+ {
+  "num": 200,
+  "name": "Rayquaza",
+  "natdex": 384,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Beat the Rayquaza bonus stage twice (15 hits the first time, 18 the second)",
+  "rarity": 5
+ },
+ {
+  "num": 201,
+  "name": "Jirachi",
+  "natdex": 385,
+  "field": "Both",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Get the Jirachi Arrival option on the slots when in the Ruins",
+  "rarity": 5
+ },
+ {
+  "num": 202,
+  "name": "Chikorita",
+  "natdex": 152,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Any area, any Catch 'Em Mode start — same 1-in-100 roll as Latios/Latias (1-in-50 with the Encounter Rate Up card), after 100 caught in the dex and 5 caught this game. Also needs its dex flag set by trading records, and an uncaught Latios/Latias is picked first. The “GET Special Guests” card skips all of it.",
+  "rarity": 5
+ },
+ {
+  "num": 203,
+  "name": "Cyndaquil",
+  "natdex": 155,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Any area, any Catch 'Em Mode start — same 1-in-100 roll as Latios/Latias (1-in-50 with the Encounter Rate Up card), after 100 caught in the dex and 5 caught this game. Also needs its dex flag set by trading records, and an uncaught Latios/Latias is picked first. The “GET Special Guests” card skips all of it.",
+  "rarity": 5
+ },
+ {
+  "num": 204,
+  "name": "Totodile",
+  "natdex": 158,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Any area, any Catch 'Em Mode start — same 1-in-100 roll as Latios/Latias (1-in-50 with the Encounter Rate Up card), after 100 caught in the dex and 5 caught this game. Also needs its dex flag set by trading records, and an uncaught Latios/Latias is picked first. The “GET Special Guests” card skips all of it.",
+  "rarity": 5
+ },
+ {
+  "num": 205,
+  "name": "Aerodactyl",
+  "natdex": 142,
+  "field": "Ruby",
+  "catch": [],
+  "egg": null,
+  "evolvesFrom": null,
+  "method": "Any area, any Catch 'Em Mode start — same 1-in-100 roll as Latios/Latias (1-in-50 with the Encounter Rate Up card), after 100 caught in the dex and 5 caught this game. Also needs its dex flag set by trading records, and an uncaught Latios/Latias is picked first. The “GET Special Guests” card skips all of it.",
+  "rarity": 5
+ }
+]
