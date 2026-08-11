@@ -2,13 +2,22 @@
 # Builds, signs, notarizes and publishes a release.
 #   ./scripts/release.sh v1.0.1
 #
-# One-time setup (you run this yourself — it asks for an Apple ID app-specific password,
-# generated at appleid.apple.com ▸ Sign-In and Security ▸ App-Specific Passwords):
+# One-time setup — run one of these yourself; either stores credentials in your keychain, and
+# nothing secret is ever written to this repo.
+#
+# Preferred, an App Store Connect API key (no Apple ID password involved, so it can't lock your
+# account, and it works unattended in CI). Create it at appstoreconnect.apple.com ▸ Users and
+# Access ▸ Integrations ▸ App Store Connect API, with the Developer role:
+#
+#   xcrun notarytool store-credentials pinball-pokedex \
+#       --key ~/private_keys/AuthKey_XXXXXX.p8 --key-id <key-id> --issuer <issuer-id>
+#
+# Or an Apple ID plus an APP-SPECIFIC password from appleid.apple.com ▸ Sign-In and Security.
+# The prompt just says "Password:" — entering your normal Apple ID password there will fail
+# repeatedly and eventually lock the account:
 #
 #   xcrun notarytool store-credentials pinball-pokedex \
 #       --apple-id <your-apple-id> --team-id R278L22M37
-#
-# That stores the password in your keychain; nothing secret is ever written to this repo.
 #
 # Note that build.sh deliberately stays ad-hoc signed so anyone can clone and build without
 # a Developer ID. Real signing happens here, at release time, only.
