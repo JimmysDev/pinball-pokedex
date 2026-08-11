@@ -16,6 +16,10 @@ game, and a save editor for the four bonus guests.
 Nothing is required of the game itself — no ROM patching, no cheats file. The app reads memory
 through a small Lua script that mGBA runs for you.
 
+<p align="center">
+  <img src="docs/screenshots/pokedex.png" alt="The Pokédex view — all 205 species with rarity, caught state and completion" width="620">
+</p>
+
 ## Features
 
 **Live Pokédex.** All 205 species as caught (full colour), seen (grayscale) or unknown
