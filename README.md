@@ -45,17 +45,9 @@ the ROM reads but never writes.
 **[Download the latest release](https://github.com/JimmysDev/pinball-pokedex/releases/latest)** —
 a universal build (Apple Silicon + Intel), macOS 13 or later. No build tools needed.
 
-Unzip it, drag `PinballPokedex.app` to /Applications, then run this once:
-
-```bash
-xattr -dr com.apple.quarantine /Applications/PinballPokedex.app
-```
-
-That step is needed because the app is **ad-hoc signed rather than notarized** — notarizing
-requires a paid Apple Developer account. macOS quarantines anything unnotarized you download and
-will refuse to open it with a "cannot be verified" or "damaged" error until the flag is cleared.
-It's not a comment on the app; every line of it is in this repo, and you can always build it
-yourself instead.
+Unzip it and drag `PinballPokedex.app` to /Applications. That's it — the app is signed with a
+Developer ID and notarized by Apple, with the ticket stapled into the bundle, so it opens normally
+with no security warnings and no terminal commands (and works offline).
 
 Point the app at your `.sav` with **Open…** if it doesn't find it (it usually sits next to the
 ROM, or in `~/Documents/Game Boy Advance/`).
