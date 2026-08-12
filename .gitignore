@@ -14,3 +14,7 @@ e-reader cards - source images/
 Resources/pokedex.json.bak-*
 
 .DS_Store
+
+# Apple API keys — belt and braces. These belong in ~/.private_keys, never in the repo.
+*.p8
+private_keys/
